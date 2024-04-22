@@ -1,0 +1,210 @@
+# --{ =-=-=-=-=-=-=-=-=-= ItemJoin's Custom Item Configurations, by RockinChaos =-=-=-=-=-=-=-=-=-= }--
+# See the tutorial page for a more in-depth explanation; https://github.com/RockinChaos/ItemJoin/wiki
+# Join the discord for easy plugin support; https://discord.gg/D5FnJ7C
+# 
+# Modifying the Version will cause this file to break and regenerate.
+items-Version: 8
+items-Delay: 2
+items-Overwrite: true
+items-Spamming: false
+items-RestrictCount: false
+items:
+  item_8:
+    id: nether_star
+    slot: 8
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_7:
+    id: nether_star
+    slot: 7
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_6:
+    id: nether_star
+    slot: 6
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_5:
+    id: nether_star
+    slot: 5
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_4:
+    id: nether_star
+    slot: 4
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_3:
+    id: nether_star
+    slot: 3
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_2:
+    id: nether_star
+    slot: 2
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_1:
+    id: nether_star
+    slot: 1
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  item_0:
+    id: nether_star
+    slot: 0
+    count: 1
+    name: '&c★ &7Lobby &c★'
+    lore:
+    - ''
+    - '&8&m+-------------------------------------+'
+    - ' &4● &7%triton_auth_item_1%'
+    - ''
+    - ' &4● &7%triton_auth_item_2%'
+    - ''
+    - ' &4● &7%triton_auth_item_3%'
+    - '&8&m+-------------------------------------+'
+    interact-right:
+    - 'server: lobby'
+    interact-left:
+    - 'server: lobby'
+    commands-cooldown: -1
+    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
+    triggers: join, respawn, world-switch
+    enabled-worlds: auth
+  

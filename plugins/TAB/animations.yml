@@ -1,0 +1,116 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&4w&cww.domain.com'
+  - '&cw&4w&cw.domain.com'
+  - '&cww&4w&c.domain.com'
+  - '&cwww&4.&cdomain.com'
+  - '&cwww.&4d&comain.com'
+  - '&cwww.d&4o&cmain.com'
+  - '&cwww.do&4m&cain.com'
+  - '&cwww.dom&4a&cin.com'
+  - '&cwww.doma&4i&cn.com'
+  - '&cwww.domai&4n&c.com'
+  - '&cwww.domain&4.&ccom'
+  - '&cwww.domain.&4c&com'
+  - '&cwww.domain.c&4o&cm'
+  - '&cwww.domain.co&4m'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+  - '&cwww.domain.com'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
+links: 
+  change-interval: 1000
+  texts:
+  - "&c  &cwww.tigermc.eu&8 | &7discord.tigermc.eu  \n&7vote.tigermc.eu"    
+  - "&7  www.tigermc.eu&8 | &c&ndiscord.tigermc.eu&7  \n&7vote.tigermc.eu"   
+  - "&7  www.tigermc.eu&8 | &7discord.tigermc.eu  \n&c&nvote.tigermc.eu&7"   
