@@ -185,26 +185,4 @@ items:
     itemflags: inventory-modify, placement, death-drops, self-drops, always-give
     triggers: join, respawn, world-switch
     enabled-worlds: auth
-  item_0:
-    id: nether_star
-    slot: 0
-    count: 1
-    name: '&c★ &7Lobby &c★'
-    lore:
-    - ''
-    - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
-    - ''
-    - ' &4● &7%triton_auth_item_2%'
-    - ''
-    - ' &4● &7%triton_auth_item_3%'
-    - '&8&m+-------------------------------------+'
-    interact-right:
-    - 'server: lobby'
-    interact-left:
-    - 'server: lobby'
-    commands-cooldown: -1
-    itemflags: inventory-modify, placement, death-drops, self-drops, always-give
-    triggers: join, respawn, world-switch
-    enabled-worlds: auth
   

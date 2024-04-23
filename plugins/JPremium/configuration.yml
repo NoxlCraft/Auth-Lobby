@@ -21,7 +21,7 @@ accessTokenDisabled: false
 # A slot in the hot-bar where unregistered players get the captcha map.
 # If you enable captcha codes verification in the proxy JPremium configuration, you should enable that option on all limbo servers.
 # Set the option to a number from 1 to 9 to enable. Set to 0 to disable.
-captchaMapSlot: 0
+captchaMapSlot: 1
 
 # Should JPremium restrict moving for unauthorized players?
 restrictedMovement: true
