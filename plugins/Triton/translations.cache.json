@@ -1,0 +1,567 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "example.translation",
+      "type": "text",
+      "languages": {
+        "en_GB": "This is an example translation in English. You can use it with the placeholder [lang]example.translation[/lang]."
+      }
+    },
+    {
+      "key": "server_authlobby_welcome",
+      "type": "text",
+      "languages": {
+        "en_GB": "Welcome",
+        "ro_RO": "Bine ai venit"
+      }
+    },
+    {
+      "key": "server_authlobby_sb1",
+      "type": "text",
+      "languages": {
+        "en_GB": "Why not join our discord?",
+        "ro_RO": "Te asteptam si pe discord!"
+      }
+    },
+    {
+      "key": "server_authlobby_item_1",
+      "type": "text",
+      "languages": {
+        "en_GB": "Hmm what does this star do?",
+        "ro_RO": "Hmm oare ce face aceasta stea?"
+      }
+    },
+    {
+      "key": "server_authlobby_item_2",
+      "type": "text",
+      "languages": {
+        "en_GB": "I think it teleports to the main lobby!",
+        "ro_RO": "Cred ca te trimite in lobby-ul nostru!"
+      }
+    },
+    {
+      "key": "server_authlobby_item_3",
+      "type": "text",
+      "languages": {
+        "en_GB": "Or maybe not? (Hmmmm)",
+        "ro_RO": "Sau poate nu? (Hmmmm)"
+      }
+    },
+    {
+      "key": "global_server_name",
+      "type": "text",
+      "languages": {
+        "en_GB": "\u0026c\u0026lNoxl\u0026f\u0026lCraft",
+        "ro_RO": "\u0026c\u0026lNoxl\u0026f\u0026lCraft"
+      }
+    },
+    {
+      "key": "global_server_ip",
+      "type": "text",
+      "languages": {
+        "en_GB": "play.noxlcraft.fun",
+        "ro_RO": "play.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_website",
+      "type": "text",
+      "languages": {
+        "en_GB": "www.noxlcraft.fun",
+        "ro_RO": "www.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_store",
+      "type": "text",
+      "languages": {
+        "en_GB": "store.noxlcraft.fun",
+        "ro_RO": "store.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_discord",
+      "type": "text",
+      "languages": {
+        "en_GB": "discord.noxlcraft.fun",
+        "ro_RO": "discord.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_server_vote",
+      "type": "text",
+      "languages": {
+        "en_GB": "vote.noxlcraft.fun",
+        "ro_RO": "vote.noxlcraft.fun"
+      }
+    },
+    {
+      "key": "global_playername",
+      "type": "text",
+      "languages": {
+        "en_GB": "Name",
+        "ro_RO": "Nume"
+      }
+    },
+    {
+      "key": "global_playerrank",
+      "type": "text",
+      "languages": {
+        "en_GB": "Rank",
+        "ro_RO": "Grad"
+      }
+    },
+    {
+      "key": "authme_registration_disabled",
+      "type": "text",
+      "languages": {
+        "en_GB": "In-game registration is disabled!",
+        "ro_RO": "Înregistrarea în joc este dezactivată!"
+      }
+    },
+    {
+      "key": "authme_registration_name_taken",
+      "type": "text",
+      "languages": {
+        "en_GB": "You already have registered this username!",
+        "ro_RO": "Ați înregistrat deja acest nume de utilizator!"
+      }
+    },
+    {
+      "key": "authme_registration_register_request",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please register to playing on our server.",
+        "ro_RO": "Va rugam sa va inregistrati pentru a juca pe serverul nostru."
+      }
+    },
+    {
+      "key": "authme_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "password",
+        "ro_RO": "parola"
+      }
+    },
+    {
+      "key": "authme_email",
+      "type": "text",
+      "languages": {
+        "en_GB": "email",
+        "ro_RO": "email"
+      }
+    },
+    {
+      "key": "authme_username",
+      "type": "text",
+      "languages": {
+        "en_GB": "username",
+        "ro_RO": "nume"
+      }
+    },
+    {
+      "key": "authme_registration_success",
+      "type": "text",
+      "languages": {
+        "en_GB": "Successfully registered!",
+        "ro_RO": "Înregistrat cu succes!"
+      }
+    },
+    {
+      "key": "authme_password_match_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "Passwords didn\u0027t match, check them again!",
+        "ro_RO": "Parolele nu s-au potrivit, verificați-le din nou!"
+      }
+    },
+    {
+      "key": "authme_password_name_in_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "You can\u0027t use your name as password, please choose another one...",
+        "ro_RO": "Nu vă puteți folosi numele ca parolă, vă rugăm să alegeți altul..."
+      }
+    },
+    {
+      "key": "auth_password_unsafe_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "The chosen password isn\u0027t safe, please choose another one...",
+        "ro_RO": "Parola aleasă nu este sigură, vă rugăm să alegeți alta..."
+      }
+    },
+    {
+      "key": "authme_password_forbidden_characters",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your password contains illegal characters. Allowed chars:",
+        "ro_RO": "Parola dvs. conține caractere ilegale. Caractere permise:"
+      }
+    },
+    {
+      "key": "authme_password_wrong_length",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your password is too short or too long! Please try with another one!",
+        "ro_RO": "Parola dvs. este prea scurtă sau prea lungă! Vă rog să încercați cu altul!"
+      }
+    },
+    {
+      "key": "authme_login_command_usage",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please login to your account.",
+        "ro_RO": "Vă rugăm să vă conectați la contul dvs."
+      }
+    },
+    {
+      "key": "authme_login_wrong_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "Wrong password please try again.",
+        "ro_RO": "Parolă greșită, încercați din nou."
+      }
+    },
+    {
+      "key": "authme_login_success",
+      "type": "text",
+      "languages": {
+        "en_GB": "Successfully Login.",
+        "ro_RO": "Conectare cu succes."
+      }
+    },
+    {
+      "key": "authme_welcome_back",
+      "type": "text",
+      "languages": {
+        "en_GB": "Welcome Back",
+        "ro_RO": "Bine ai revenit"
+      }
+    },
+    {
+      "key": "authme_login_login_request",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please login to your account.",
+        "ro_RO": "Vă rugăm să vă conectați la contul dvs."
+      }
+    },
+    {
+      "key": "authme_login_timeout_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "Login timeout exceeded, you have been kicked from the server, please try again!",
+        "ro_RO": "Timpul de conectare a fost depășit, ați fost exclus de pe server, vă rugăm să încercați din nou!"
+      }
+    },
+    {
+      "key": "auth_error_denied_command",
+      "type": "text",
+      "languages": {
+        "en_GB": "In order to use this command you must be authenticated!",
+        "ro_RO": "Pentru a utiliza această comandă trebuie să fii autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_denied_chat",
+      "type": "text",
+      "languages": {
+        "en_GB": "In order to chat you must be authenticated!",
+        "ro_RO": "Pentru a conversa prin chat trebuie să fii autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_unregistered_user",
+      "type": "text",
+      "languages": {
+        "en_GB": "Can\u0027t find the requested user in the database!",
+        "ro_RO": "Nu se găsește utilizatorul solicitat în baza de date!"
+      }
+    },
+    {
+      "key": "authme_error_not_logged_in",
+      "type": "text",
+      "languages": {
+        "en_GB": "You\u0027re not logged in!",
+        "ro_RO": "Nu ești autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_unexpected_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "An unexpected error occurred, please contact an administrator!",
+        "ro_RO": "A apărut o eroare neașteptată, vă rugăm să contactați un administrator!"
+      }
+    },
+    {
+      "key": "authme_error_max_registration",
+      "type": "text",
+      "languages": {
+        "en_GB": "You have exceeded the maximum number of registrations (%reg_count/%max_acc %reg_names) for your connection!",
+        "ro_RO": "Ați depășit numărul maxim de înregistrări (%reg_count/%max_acc %reg_names) pentru conexiunea dvs.!"
+      }
+    },
+    {
+      "key": "authme_error_logged_in",
+      "type": "text",
+      "languages": {
+        "en_GB": "You\u0027re already logged in!",
+        "ro_RO": "Ești deja autentificat!"
+      }
+    },
+    {
+      "key": "authme_error_kick_unresolved_hostname",
+      "type": "text",
+      "languages": {
+        "en_GB": "An error occurred: unresolved player hostname!",
+        "ro_RO": "A apărut o eroare: numele de gazdă a jucătorului nerezolvat!"
+      }
+    },
+    {
+      "key": "authme_unregister_sucess",
+      "type": "text",
+      "languages": {
+        "en_GB": "Successfully unregistered!",
+        "ro_RO": "Neînregistrat cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_account_not_activated",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your account isn\u0027t activated yet, please check your emails!",
+        "ro_RO": "Contul dvs. nu este încă activat, vă rugăm să vă verificați e-mailurile!"
+      }
+    },
+    {
+      "key": "authme_misc_password_changed",
+      "type": "text",
+      "languages": {
+        "en_GB": "Password changed successfully!",
+        "ro_RO": "Parola a fost schimbată cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_logout",
+      "type": "text",
+      "languages": {
+        "en_GB": "Logged-out successfully!",
+        "ro_RO": "Te-ai deconectat cu succes!"
+      }
+    },
+    {
+      "key": "authme_misc_reload",
+      "type": "text",
+      "languages": {
+        "en_GB": "Configuration and database have been reloaded correctly!",
+        "ro_RO": "Configurația și baza de date au fost reîncărcate corect!"
+      }
+    },
+    {
+      "key": "authme_usage_strong_pwd",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please make a strong password.",
+        "ro_RO": "Vă rugăm să faceți o parolă puternică."
+      }
+    },
+    {
+      "key": "authme_password_old",
+      "type": "text",
+      "languages": {
+        "en_GB": "Old Password",
+        "ro_RO": "Parola Veche"
+      }
+    },
+    {
+      "key": "authme_new_password",
+      "type": "text",
+      "languages": {
+        "en_GB": "New Password",
+        "ro_RO": "Noua Parola"
+      }
+    },
+    {
+      "key": "authme_you_own",
+      "type": "text",
+      "languages": {
+        "en_GB": "You own",
+        "ro_RO": "Tu deții"
+      }
+    },
+    {
+      "key": "authme_accounts",
+      "type": "text",
+      "languages": {
+        "en_GB": "accounts",
+        "ro_RO": "conturii"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_same_ip_online",
+      "type": "text",
+      "languages": {
+        "en_GB": "A player with the same IP is already in game!",
+        "ro_RO": "Un jucător cu același IP este deja în joc!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_same_nick_online",
+      "type": "text",
+      "languages": {
+        "en_GB": "The same username is already playing on the server!",
+        "ro_RO": "Același nume de utilizator se joacă deja pe server!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_name_length",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your username is either too short or too long!",
+        "ro_RO": "Numele tău de utilizator este fie prea scurt, fie prea lung!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_characters_in_name",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your username contains illegal characters. Allowed chars:",
+        "ro_RO": "Numele dumneavoastră de utilizator conține caractere nepermise. Caractere permise:"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_kick_full_server",
+      "type": "text",
+      "languages": {
+        "en_GB": "The server is full, try again later!",
+        "ro_RO": "Serverul este plin, încercați din nou mai târziu!"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_not_owner_error",
+      "type": "text",
+      "languages": {
+        "en_GB": "This name already registered.",
+        "ro_RO": "Acest nume este înregistrat."
+      }
+    },
+    {
+      "key": "authme_join_using",
+      "type": "text",
+      "languages": {
+        "en_GB": "You should join using username",
+        "ro_RO": "Ar trebui să vă intri folosind numele de utilizator"
+      }
+    },
+    {
+      "key": "authme_not",
+      "type": "text",
+      "languages": {
+        "en_GB": "not",
+        "ro_RO": "nu"
+      }
+    },
+    {
+      "key": "authme_on_join_validation_quick_command",
+      "type": "text",
+      "languages": {
+        "en_GB": "You used a command too fast! Please, join the server again and wait more before using any command.",
+        "ro_RO": "Ai folosit o comandă prea repede! Vă rugăm să vă conectați din nou la server și să așteptați mai mult înainte de a utiliza orice comandă."
+      }
+    },
+    {
+      "key": "authme_email_add_email_request",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Please add your email to your account."
+      }
+    },
+    {
+      "key": "authme_usage_email_add",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Please add your email to your account."
+      }
+    },
+    {
+      "key": "authme_email_usage_email_change",
+      "type": "text",
+      "languages": {
+        "en_GB": "Please add your email to your account.",
+        "ro_RO": "Vă rugăm să adăugați adresa de e-mail în contul dvs."
+      }
+    },
+    {
+      "key": "email_new_email_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Invalid new email, try again!",
+        "ro_RO": "E-mail nou nevalid, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_old_email_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Invalid old email, try again!",
+        "ro_RO": "E-mail vechi nevalid, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_email_invalid",
+      "type": "text",
+      "languages": {
+        "en_GB": "Invalid email address, try again!",
+        "ro_RO": "Adresă de e-mail nevalidă, încercați din nou!"
+      }
+    },
+    {
+      "key": "authme_email_added",
+      "type": "text",
+      "languages": {
+        "en_GB": "Email address successfully added to your account!",
+        "ro_RO": "Adresa de e-mail a fost adăugată cu succes în contul dvs.!"
+      }
+    },
+    {
+      "key": "authme_email_add_not_allowed",
+      "type": "text",
+      "languages": {
+        "en_GB": "Adding email was not allowed.",
+        "ro_RO": "Adăugarea de e-mail nu a fost permisă."
+      }
+    },
+    {
+      "key": "authme_email_show",
+      "type": "text",
+      "languages": {
+        "en_GB": "Your current email address is:",
+        "ro_RO": "Adresa dvs. actuală de e-mail este:"
+      }
+    },
+    {
+      "key": "authme_no_email_for_account",
+      "type": "text",
+      "languages": {
+        "en_GB": "You currently don\u0027t have email address associated with this account.",
+        "ro_RO": "În prezent, nu aveți o adresă de e-mail asociată acestui cont."
+      }
+    },
+    {
+      "key": "authme_already_used",
+      "type": "text",
+      "languages": {
+        "en_GB": "The email address is already being used",
+        "ro_RO": "Adresa de e-mail este deja folosită"
+      }
+    }
+  ]
+}

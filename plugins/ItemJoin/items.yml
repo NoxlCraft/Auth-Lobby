@@ -17,11 +17,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -39,11 +39,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -61,11 +61,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -83,11 +83,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -105,11 +105,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -127,11 +127,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -149,11 +149,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'
@@ -171,11 +171,11 @@ items:
     lore:
     - ''
     - '&8&m+-------------------------------------+'
-    - ' &4● &7%triton_auth_item_1%'
+    - ' &4● &7%triton_server_authlobby_item_1%'
     - ''
-    - ' &4● &7%triton_auth_item_2%'
+    - ' &4● &7%triton_server_authlobby_item_2%'
     - ''
-    - ' &4● &7%triton_auth_item_3%'
+    - ' &4● &7%triton_server_authlobby_item_3%'
     - '&8&m+-------------------------------------+'
     interact-right:
     - 'server: lobby'

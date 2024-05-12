@@ -111,6 +111,6 @@ barcolors:
 links: 
   change-interval: 1000
   texts:
-  - "&c  &cwww.tigermc.eu&8 | &7discord.tigermc.eu  \n&7vote.tigermc.eu"    
-  - "&7  www.tigermc.eu&8 | &c&ndiscord.tigermc.eu&7  \n&7vote.tigermc.eu"   
-  - "&7  www.tigermc.eu&8 | &7discord.tigermc.eu  \n&c&nvote.tigermc.eu&7"   
+  - "&c  &c%triton_global_server_website%&8 | &7%triton_global_server_discord%  \n&7%triton_global_server_store%"    
+  - "&7  %triton_global_server_website%&8 | &c&n%triton_global_server_discord%&7  \n&7%triton_global_server_store%"   
+  - "&7  %triton_global_server_website%&8 | &7%triton_global_server_discord%  \n&c&n%triton_global_server_store%&7"   

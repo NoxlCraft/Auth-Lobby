@@ -1,0 +1,61 @@
+[05-12 21:38:00]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-12 21:38:00]: [INFO] The table for the MySQL connection exists!
+[05-12 21:38:00]: [INFO] MySQL setup finished
+[05-12 21:38:00]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-12 21:38:00]: [INFO] McPanelX 6.0.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[05-12 21:38:00]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-12 21:38:00]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-12 21:38:00]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-12 21:38:00]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-12 21:38:22]: [INFO] McPanelX 6.0.0-SNAPSHOT-bCUSTOM disabled!
+[05-12 21:39:17]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-12 21:39:17]: [INFO] The table for the MySQL connection exists!
+[05-12 21:39:17]: [INFO] MySQL setup finished
+[05-12 21:39:17]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-12 21:39:17]: [INFO] McPanelX 6.0.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[05-12 21:39:17]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-12 21:39:17]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-12 21:39:17]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-12 21:39:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-12 21:48:52]: [INFO] McPanelX 6.0.0-SNAPSHOT-bCUSTOM disabled!
+[05-12 21:49:47]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-12 21:49:48]: [INFO] The table for the MySQL connection exists!
+[05-12 21:49:48]: [INFO] MySQL setup finished
+[05-12 21:49:48]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-12 21:49:48]: [INFO] McPanelX 6.0.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[05-12 21:49:48]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-12 21:49:48]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-12 21:49:48]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-12 21:49:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-12 21:50:45]: [INFO] McPanelX 6.0.0-SNAPSHOT-bCUSTOM disabled!
+[05-12 21:51:40]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-12 21:51:40]: [INFO] The table for the MySQL connection exists!
+[05-12 21:51:40]: [INFO] MySQL setup finished
+[05-12 21:51:40]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-12 21:51:40]: [INFO] McPanelX 6.0.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[05-12 21:51:40]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-12 21:51:40]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-12 21:51:40]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-12 21:51:40]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-12 21:54:04]: [INFO] McPanelX 6.0.0-SNAPSHOT-bCUSTOM disabled!
+[05-12 21:54:20]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-12 21:54:20]: [INFO] The table for the MySQL connection exists!
+[05-12 21:54:20]: [INFO] MySQL setup finished
+[05-12 21:54:20]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-12 21:54:20]: [INFO] McPanelX 6.0.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[05-12 21:54:20]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-12 21:54:20]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-12 21:54:20]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-12 21:54:20]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-12 21:55:51]: [INFO] McPanelX 6.0.0-SNAPSHOT-bCUSTOM disabled!
+[05-12 21:56:08]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-12 21:56:08]: [INFO] The table for the MySQL connection exists!
+[05-12 21:56:08]: [INFO] MySQL setup finished
+[05-12 21:56:08]: [INFO] No supported permissions system found! Permissions are disabled!
+[05-12 21:56:08]: [INFO] McPanelX 6.0.0-SNAPSHOT build n.CUSTOM successfully enabled!
+[05-12 21:56:08]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-12 21:56:08]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-12 21:56:08]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-12 21:56:08]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[05-12 21:56:25]: [FINE] NaysKutzu logged in 46.125.250.123
+[05-12 22:14:15]: [FINE] NaysKutzu logged in 46.125.250.123

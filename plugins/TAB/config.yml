@@ -3,9 +3,9 @@ header-footer:
   enabled: true
   header:
   - ''
-  - '&7♫ &c&lNoxl&f&lCraft &7♫'
+  - '&7♫ %triton_global_server_name% &7♫'
   - ''
-  - '&4&l| &7Bine ai venit &c%player_name%&7,'
+  - '&4&l| &7%triton_server_authlobby_welcome% &c%player_name%&7,'
   - '&7'
   footer:
   - ''
@@ -94,15 +94,15 @@ scoreboard:
       lines:
       - '&7        &n%localtime_time_dd/MM/YYYY%'
       - ''
-      - '&4➡ &7Nume: &c%player_name%'
+      - '&4➡ &7%triton_global_playername%: &c%player_name%'
       - ''
-      - '&4➡ &7Te asteptam si pe discord '
-      - '&4➡ &c&ndiscord.noxlcraft.fun'
+      - '&4➡ &7%triton_server_authlobby_sb1% '
+      - '&4➡ &c&n%triton_global_server_discord%'
       - ''
       - '&4➡ &7Auth: &c%bungee_auth%'
       - '&4➡ &7Global: &c%bungee_total%'
       - ''
-      - '&7     play.tigermc.eu'
+      - '&7     %triton_global_server_ip%'
 layout:
   enabled: false
   direction: COLUMNS
