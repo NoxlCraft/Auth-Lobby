@@ -22,7 +22,7 @@ settings:
   connection-throttle: -1
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Server-ul sa dus pe pula!
+  shutdown-message: '[lang]core_shutdown_message[/lang]'
 spawn-limits:
   water-underground-creature: 5
   water-ambient: 20
